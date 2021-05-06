@@ -8,7 +8,7 @@
 - Numpy 1.15.4
 - Pillow 5.4.1
 - tqdm 4.30.0
-- tensorboard --logdir=runs
+- tensorboard 4.2.0
 
 
 
