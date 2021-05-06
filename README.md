@@ -23,15 +23,6 @@ You can find here the necessary executables https://vcgit.hhi.fraunhofer.de/jvet
 In order to release the burder on the GPU, we have chosen to split the dataset into patches with a pre-defined size in an .npy format . 
 Use the prepare_npy_patches.py file for this purpose and change the destination and source directories accordingly.
 
-1. DIV2K
-    - DIV2K_npy
-    
-        -LR_npy
-        
-        -HR_npy
-        
-        -LR_qp22_npy
-
       
 ## Train 
 
